@@ -1,6 +1,9 @@
 # Next.js Starter App
 
-This is a sleek and lightweight starter template for building modern web applications using [Next.js](https://nextjs.org). Set up with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app), it provides everything you need to kick-start your project with clean folder structure, and a simple configuration to get you running quickly.
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAishwaryVishwakarma%2FNextJs-Starter-App&label=%F0%9F%91%80%20Peek-a-Boo&labelColor=%231e90ff&countColor=%23d9e3f0&style=flat&labelStyle=none)
+![License: MIT](https://img.shields.io/badge/License-MIT-D3D3D3?labelColor=008080)
+
+This is a sleek and lightweight 🪶 starter template for building modern web applications using [Next.js](https://nextjs.org). Set up with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app), it provides everything you need to kick-start your project with clean folder structure, and a simple configuration to get you running quickly.
 
 ## Features:
 
