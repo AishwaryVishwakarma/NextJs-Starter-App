@@ -21,10 +21,10 @@ npm install -g degit
 Use `degit` to clone the starter template into your project directory:
 
 ```bash
-npx degit https://github.com/your-username/nextjs-starter-app your-project-name
+npx degit https://github.com/AishwaryVishwakarma/nextjs-starter-app your-project-name
 ```
 
-Replace `your-username` with your GitHub username and `your-project-name` with your desired project name.
+Replace `your-project-name` with your desired project name.
 
 ---
 
